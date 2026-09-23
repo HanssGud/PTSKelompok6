@@ -13,6 +13,8 @@
     <string name="mobile">Mobile</string>
     <string name="telp_kantor">Telp Kantor</string>
     <string name="tombol_kirim">Kirim</string>
+    <string name="tombol_lihat_list">Lihat List Data</string>
+    <string name="header_list_data">Daftar Data Terkirim:</string>
     <string name="hasil_kosong">Hasil akan tampil di sini setelah data dikirim.</string>
     <string name="jumlah_awal">Jumlah data terkirim: 0</string>
 </resources>

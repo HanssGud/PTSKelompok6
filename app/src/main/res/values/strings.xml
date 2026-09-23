@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PTS Kelompok 6</string>
+
+    <!-- MainActivity - Layar User Interface -->
+    <string name="judul_kelompok">Kelompok Enam</string>
+    <string name="sub_judul">PTS Pemrograman Perangkat Bergerak</string>
+    <string name="tulis_nama">Tulis Nama Anda</string>
+    <string name="tombol_lanjut">Lanjut</string>
+
+    <!-- FormActivity - Layar User Interaction -->
+    <string name="input_phone">Silahkan masukan nomor Anda</string>
+    <string name="telp_rumah">Telp Rumah</string>
+    <string name="mobile">Mobile</string>
+    <string name="telp_kantor">Telp Kantor</string>
+    <string name="tombol_kirim">Kirim</string>
+    <string name="hasil_kosong">Hasil akan tampil di sini setelah data dikirim.</string>
+    <string name="jumlah_awal">Jumlah data terkirim: 0</string>
+</resources>
